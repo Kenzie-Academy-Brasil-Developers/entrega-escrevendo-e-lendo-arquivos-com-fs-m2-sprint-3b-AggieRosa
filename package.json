@@ -12,7 +12,8 @@
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "heroku": "^7.59.2",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "node": "^16.13.2"
   },
   "devDependencies": {
     "jest": "^27.3.1",
