@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "nodemon": "^2.0.14"
@@ -15,5 +16,16 @@
   "devDependencies": {
     "jest": "^27.3.1",
     "supertest": "^6.1.6"
-  }
+  },
+  "description": "O intuito desta entrega é que criemos duas rotas GET e POST, uma devolvendo os alunos cadastrados anteriormente e a outra sendo possível cadastrar um aluno com a seguinte estrutura. ```json {   \"name\": \"Kenzinho\",   \"course\": \"M2\",   \"age\": 18,   \"email\": \"example@mail.com.br\" } ``` ### Aviso! Para começar, acesse e faça clone deste repositório , pois nele tem implementado os testes para essa entrega.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenzie-Academy-Brasil-Developers/entrega-escrevendo-e-lendo-arquivos-com-fs-m2-sprint-3b-AggieRosa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-escrevendo-e-lendo-arquivos-com-fs-m2-sprint-3b-AggieRosa/issues"
+  },
+  "homepage": "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-escrevendo-e-lendo-arquivos-com-fs-m2-sprint-3b-AggieRosa#readme"
 }
